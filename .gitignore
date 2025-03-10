@@ -1,3 +1,4 @@
-/LearningSpark.iml
 /.idea/
 /target/
+/SparkStreaming.iml
+/src/main/resources/log4j.properties
